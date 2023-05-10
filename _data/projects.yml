@@ -1,0 +1,37 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Online Shoppers Purchasing Intention
+- project: Online Shoppers Purchasing Intention
+  role: Data Analysis, Machine Learning | Stevens Institute Technology  
+  duration: Jan. 2023 &mdash; Mar. 2023
+  url: "https://github.com/REDZ777/Predicted-purchase-intent-of-e-commerce-website-visitors-"
+  description: <ul>
+                <li>Predicted purchase intent of e-commerce website visitors using supervised learning algorithms in python</li>
+                <li>Implemented and compared Logistic Regression, Random Forest, Support Vector Classifier, K-Nearest Neighbor, Multilayer Perceptron, and Adaptive Boosting. Found Random Forest was most effective classifier with accuracy of 77%</li>
+                <li>Incorporated SMOTE technique to improve classifier performance and Scalability of each classifier, Random Forest classifier performed best with accuracy of 91%</li>
+               </ul>
+# Predicting Financial Distress 
+- project: Predicting Financial Distress 
+  role: Data Analysis, Machine Learning | Stevens Institute Technology  
+  duration: oct. 2022 &mdash; Dec. 2022
+  url: "https://github.com/REDZ777"
+  description: <ul>
+                <li>Designed and implemented a credit scoring algorithm that uses machine learning to predict an applicant's likelihood of default, increasing efficiency and accuracy of loan decisions</li>
+                <li>Leveraged Python pandas library to extract and parse data, matplotlib library to conduct exploratory data analysis and create compelling visualizations and SKlearn machine learning libraries to develop predictive models</li>
+                  <li>Uncovered issue of data set imbalance, leading to 93% of customers not facing financial distress; rectified problem by applying SMOTE technique to balance data set</li>
+                <li>Diagnosed classification problem at hand and deployed Random Forest Classifier achieved accuracy of 95%</li>
+                </ul>
+
+# Data Warehouse and BI for Coffee Chain  
+- project: Data Warehouse and BI for Coffee Chain 
+  role: Business Intelligence | Stevens Institute Technology  
+  duration: Feb.2022 &mdash; May.2022
+  url: "https://github.com/REDZ777/Data-Warehouse-and-BI-for-Coffee-Chain-"
+  description: <ul>
+                  <li>Spearheaded development of a Data Warehouse & Business Intelligence system for a coffee chain with 1 warehouse and 8 brick-and-mortar locations, resulting in increased data accuracy and efficiency</li>
+                  <li>Built an ETL pipeline using python pandas and Psycopg2 to integrated data into a data warehouse and imported data from PostgreSQL into Tableau for business intelligence, utilizing principles of Data Warehousing and Business Intelligence</li>
+                  <li>Designed Tableau dashboards for executives and sales managers, enabling real-time insights into customer behavior, new product performance, and profitable customers for daily business operations</li>
+               </ul>
+
+
