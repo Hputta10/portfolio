@@ -15,7 +15,7 @@
 - project: Predicting Financial Distress 
   role: Data Analysis, Machine Learning | Stevens Institute Technology  
   duration: oct. 2022 &mdash; Dec. 2022
-  url: "https://github.com/REDZ777"
+  url: "https://github.com/hputta23"
   description: <ul>
                 <li>Designed and implemented a credit scoring algorithm that uses machine learning to predict an applicant's likelihood of default, increasing efficiency and accuracy of loan decisions</li>
                 <li>Leveraged Python pandas library to extract and parse data, matplotlib library to conduct exploratory data analysis and create compelling visualizations and SKlearn machine learning libraries to develop predictive models</li>
